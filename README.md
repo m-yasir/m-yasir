@@ -5,7 +5,7 @@
 ## 📖 About me
 
 - Computer science graduate
-- Software Engineer with more than 6 YOE
+- Software Engineer with more than 7 YOE
 - Can exit VIM (NEOVIM btw)
 
 ## ⬆ What I'm upto
