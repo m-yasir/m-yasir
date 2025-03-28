@@ -10,7 +10,8 @@
 
 ## ⬆ What I'm upto
 
-I'm currently working on an open source `Chip-8` Interpreter in JS. Check it out [here](https://github.com/m-yasir/chip-8)
+- I'm currently working on and off on an open source `Chip-8` Interpreter in JS. Check it out [here](https://github.com/m-yasir/chip-8)
+- Building at Foundry (YC F24), including working on our open source web recording tool. Useful for recording sessions to train browser agents. Check it out [here](https://github.com/datafoundryai/web-recorder)
 
 ## 🤩 What gets me excited
 
